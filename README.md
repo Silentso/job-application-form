@@ -7,7 +7,7 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 
 This project is about job application form fillup system with basic CRUD (Create, Read, Update, Delete) operations. The goal of this project is to streamline the job application process, making it efficient for both applicants and administrators.
 
-![DEMO](\screenshots\job-application-form.png)
+![DEMO](screenshots\job-application-form.png)
 # Features
 * Allow applicants to register with essential details
 * Create - Add new job applications to the system fillup by Applicant
@@ -18,7 +18,7 @@ This project is about job application form fillup system with basic CRUD (Create
 
 # Download & Setup Instructions
 * 0 - install xampp of your system for(Apache and mysql DBMS)
-* 1 - Clone project: git clone http://localhost/job-application-form/
+* 1 - Clone project: git clone http://localhost/job-application-form/](https://github.com/Silentso/job-application-form/
 * 2 - cd job-application-form
 * 3 - Unzip file on your local system copy job-application-form folder.
 * 4 - Put job-application-form folder inside (htdocs of xampp) root directory
