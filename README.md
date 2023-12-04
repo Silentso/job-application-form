@@ -26,7 +26,9 @@ This project is about job application form fillup system with basic CRUD (Create
 Open phpmyadmin
 
 Create Database called job with the help of below SQL Query.
-```CREATE DATABASE [IF NOT EXISTS] job ```
+```
+CREATE DATABASE [IF NOT EXISTS] job
+```
 create table job_application with the help of below SQL Query.
 ```
 create table job_application (
