@@ -14,7 +14,7 @@ This project is about job application form fillup system with basic CRUD (Create
 
 # Download & Setup Instructions
 * 0 - install xampp of your system for(Apache and mysql DBMS)
-* 1 - Clone project: git clone http://localhost/job-application-form/](https://github.com/Silentso/job-application-form
+* 1 - Clone project: git clone https://github.com/Silentso/job-application-form
 * 2 - cd job-application-form
 * 3 - Unzip file on your local system copy job-application-form folder.
 * 4 - Put job-application-form folder inside (htdocs of xampp) root directory
@@ -27,8 +27,8 @@ Open phpmyadmin
 
 Create Database name = job
 create table name =job_application with the help of below SQL Query.
-
-```create table job_application (
+```
+create table job_application (
     id int auto_increment primary key,
     firstname varchar(255) not null,
     lastname varchar(255) not null,
