@@ -28,7 +28,7 @@ Open phpmyadmin
 Create Database name = job
 create table name =job_application with the help of below SQL Query.
 
-create table job_application (
+```create table job_application (
     id int auto_increment primary key,
     firstname varchar(255) not null,
     lastname varchar(255) not null,
@@ -37,6 +37,6 @@ create table job_application (
     `date` date not null,
     resume_link varchar(2083) not null,
     emp_status varchar(32) not null);
-
-author name-- Ankit Krishna Manandhar
-For More Details --- https://github.com/Silentso/job-application-form
+```
+* author name-- Ankit Krishna Manandhar
+* For More Details --- https://github.com/Silentso/job-application-form
