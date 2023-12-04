@@ -7,7 +7,7 @@ This project is from my Django + React collaboration wih Brad Traversy. Full Cou
 
 This project is about job application form fillup system with basic CRUD (Create, Read, Update, Delete) operations. The goal of this project is to streamline the job application process, making it efficient for both applicants and administrators.
 
-![DEMO](..\screenshots\job-application-form.png)
+![DEMO](\screenshots\job-application-form.png)
 # Features
 * Allow applicants to register with essential details
 * Create - Add new job applications to the system fillup by Applicant
